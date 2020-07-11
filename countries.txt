@@ -2,3 +2,5 @@ Sweden
 Denmark
 Italy
 Spain
+UK
+Canada
